@@ -1,2 +1,2 @@
-# SmartContract_JointSavings_Account
+# Smart Contract Joint Savings Account
 Smart Contract implementing a joint savings account 
